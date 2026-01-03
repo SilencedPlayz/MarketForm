@@ -11,7 +11,7 @@ Now in dark theme and 30 items per category, providing a modern and neat look. T
 
 ## Usage
 Download the marketform.js library or the MarketApi.mcpack directly for your convenience.
-View the full docs [here](./MarketApi/marketapi.md)
+View the full docs [here](./MarketApi/README.md)
 
 # Download
 This UI pack is for sale, kindly contact [silenced143](https://discord.com/users/1189433316202512414) on Discord if interested.
